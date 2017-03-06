@@ -1,5 +1,5 @@
 language: java
-install: mvn test -B
+install: ./mvnw test -B
 jdk:
   - oraclejdk8
   - oraclejdk7
